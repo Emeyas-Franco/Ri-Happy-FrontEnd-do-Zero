@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Bootcamp | Ri-Happy - Front-end do Zero
 
 Repositório criado para o conteúdo e projetos do bootcamp da DIO em parceria com Ri-Happy, Front-end do Zero.
