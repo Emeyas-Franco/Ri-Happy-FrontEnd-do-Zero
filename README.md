@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Bootcamp | Ri-Happy - Front-end do Zero
 
@@ -18,3 +19,10 @@ git init
 
 ## 🔍 Referências
 - [Digital Inovvation One - DIO](https://dio.me)
+=======
+# BOOTCAMP
+
+## Ri-Happy - Front-end do Zero
+
+Repositório para adicionar conteúdos e projetos do bootcamp da Ri-Happy Front-end do Zero
+>>>>>>> de6f7d9acb88e62847d3d372eabed397ffd9bdae
